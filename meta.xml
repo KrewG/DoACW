@@ -1,0 +1,15 @@
+<meta>
+
+	<info author="Krew ft Emix" version="1.0.0" type="script" name="cw script" description="wff,dm,os" />
+	<min_mta_version client="1.5.7" server="1.5.7" />
+
+	<!--Function Client-->
+	<script src="Client.lua" type="client" />
+	
+	<!--Function Server-->
+	
+	<!--HUD-->
+	
+	<!--Function Principal-->
+
+</meta>
